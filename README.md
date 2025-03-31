@@ -58,3 +58,5 @@ Summary statistics on accident severity and injury types.
 Trends over time in the number of accidents and injuries for different aircraft models.
 
 Correlations between aircraft make/model, accident severity, and other factors like weather and flight phase.
+#Visualizations
+
