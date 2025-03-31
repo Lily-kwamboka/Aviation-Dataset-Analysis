@@ -58,6 +58,9 @@ Summary statistics on accident severity and injury types.
 Trends over time in the number of accidents and injuries for different aircraft models.
 
 Correlations between aircraft make/model, accident severity, and other factors like weather and flight phase.
+
+## Tableau Dashboard
+You can view the interactive Tableau Dashboard showcasing trends and insights from the aviation dataset by following this [link to the dashboard](https://public.tableau.com/app/profile/lilian.kwamboka/viz/Dashboard_17434287593060/Dashboard1?publish=yes)
 # Visualizations
 ## Model vs Fatal Injuries
 The bar plot shows the Fatality rate for each aircraft model. It provides a clear comparison of how different models contribute to fatal accidents, helping to identify which aircraft models are associated with higher fatality rates.
